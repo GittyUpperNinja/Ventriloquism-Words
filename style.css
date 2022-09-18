@@ -5,7 +5,7 @@ body{
 #button{
     height: 100vh;
     width: 100vw;
-    font-size: 100vw;
+    font-size: 10vw;
     text-size-adjust: auto;
     word-wrap: break-word;
 }
